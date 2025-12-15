@@ -1,5 +1,8 @@
 # 💫 About Me:
-1-->I’m currently working on<br><br>--Building React.js projects with hooks, API integration, and clean UI<br><br>--Improving frontend performance & reusable components<br><br>--Small full-stack MERN apps for practice<br>2-->I’m looking to collaborate on<br><br>--Open-source React projects<br><br>--Beginner-friendly MERN stack applications<br><br>--Frontend UI/UX improvements and bug fixing<br>3-->I’m looking for help with<br><br>--Advanced React patterns<br><br>--Backend integration & authentication<br><br>--Writing clean, scalable code<br>->I’m currently learning<br><br>--Advanced React (Context, Performance, Best Practices)<br><br>--Node.js & Express<br><br>--MongoDB<br><br>--Basics of system design for frontend<br>3-->Ask me about<br><br>--React.js<br><br>--JavaScript (ES6+)<br><br>--HTML, CSS, Responsive Design<br><br>--Git & GitHub basics<br>4-->Fun fact<br><br>--I enjoy turning ideas into interactive web experiences <br>and I learn best by building real projects.
+Frontend Developer with a strong focus on building responsive and interactive UI/UX.
+Skilled in React.js, JavaScript (ES6+), HTML, and CSS.
+Experienced in reusable components and REST API integration.
+Passionate about clean, scalable code and real-world projects.
 
 
 ## 🌐 Socials:
